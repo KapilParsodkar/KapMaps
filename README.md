@@ -11,4 +11,5 @@ Used Google-cloud platform To fetch information from cloud in that used Google M
 Details of Restaurant are fetched from Rapid API (Travel Advisor API)
 
 The App is able to deploy on cloud with help of Netlify
+To access the App you need to turn on Location of the Device
 http://kapmaps.netlify.app
